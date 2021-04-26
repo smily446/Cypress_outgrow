@@ -1,0 +1,6 @@
+{
+
+    "name": "smily",
+    "social_ctas":[".social-fb > .tooltip",".social-twitter > .tooltip", ":nth-child(3) > .social-in > .tooltip",":nth-child(4) > .social-in > .tooltip",".social-wts > .tooltip",".social-email > .tooltip",":nth-child(7) > .social-in > .tooltip"]
+ 
+}
